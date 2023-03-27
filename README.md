@@ -1,5 +1,3 @@
-[![MasterHead](https://thedatascientist.com/data-science-considered-own-discipline/)](https://rizkyalmayda.io)
-
 <h1 align="center">Hi 👋, I'm Rizky Almayda</h1>
 <h3 align="center">A passionate data scientist from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshoots/3848914/programmer.gif">
